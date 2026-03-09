@@ -15,5 +15,8 @@
     "url": "https://github.com/AhmedMustafa48/backend-crash/issues"
   },
   "homepage": "https://github.com/AhmedMustafa48/backend-crash#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
